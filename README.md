@@ -12,9 +12,9 @@ It’s a unique experience that tests persistence, creativity, and the ability t
 
 ## 📂 Repository Structure
 Each folder corresponds to a project or exercise set from the curriculum:
-.
-├── C00
-├── C01
+
+├── C00 <br>
+├── C01 <br>
 ├── C02
 ├── C03
 ├── C04
