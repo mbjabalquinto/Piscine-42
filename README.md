@@ -15,13 +15,13 @@ Each folder corresponds to a project or exercise set from the curriculum:
 
 ├── C00 <br>
 ├── C01 <br>
-├── C02
-├── C03
-├── C04
-├── Rush00
-├── Rush01
-├── Rush02
-└── Shell00
+├── C02 <br>
+├── C03 <br>
+├── C04 <br>
+├── Rush00 <br>
+├── Rush01 <br>
+├── Rush02 <br>
+└── Shell00 <br>
 
 
 > Every directory includes the source files and, when needed, its own README or instructions.
