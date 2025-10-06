@@ -1,4 +1,5 @@
-# 42 Piscine – All Exercises
+# 42 Piscine – All Exercises <img src="https://camo.githubusercontent.com/4614c66da86c2df5cdeddebc21556e1aa5097acd43ec263230f466279222ff14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4dc3a16c6167612d3030353939433f7374796c653d666c6174266c6f676f3d3432266c6f676f436f6c6f723d7768697465">
+
 
 This repository contains all the exercises I completed during the **42 Piscine**, an intensive C programming bootcamp designed to challenge problem-solving skills and promote collaborative learning.
 
